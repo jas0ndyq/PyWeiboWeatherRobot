@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+#author : 'jas0ndyq'
+#email : 'jasondyq@foxmail.com'
+#version : '1.0'
+
 from weibo import APIClient
 import urllib
 import urllib2
@@ -10,10 +14,6 @@ sys.setdefaultencoding('utf-8')
 
 #开发进度
 
-#个人信息
-__author__  = 'jas0ndyq'
-__email__   = 'jasondyq@foxmail.com'
-__version__ = 'v0'
 
 #开启调试输出(0 or 1)
 debug = 0
